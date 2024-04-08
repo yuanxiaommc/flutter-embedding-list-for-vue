@@ -4,7 +4,7 @@
 
 ## 相关链接
 
-[web_embedding]<https://github.com/flutter/samples/tree/main/web_embedding>
+[flutter_web_embedding 官方 Demo](https://github.com/flutter/samples/tree/main/web_embedding)
 
 ## 关键点
 

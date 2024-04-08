@@ -1,10 +1,12 @@
 # flutter-embedding-list-for-vue
 
+## [中文说明](./README-ZN.md)
+
 A simple example of how to use Vue3 + Flutter for hybrid layout to implement infinite scrolling waterfall stream.
 
 ## Related Links
 
-[web_embedding]<https://github.com/flutter/samples/tree/main/web_embedding>
+[flutter_web_embedding demo](https://github.com/flutter/samples/tree/main/web_embedding)
 
 ## Points of Interest
 
