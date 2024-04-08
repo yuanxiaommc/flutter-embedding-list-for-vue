@@ -1,0 +1,12 @@
+.DS_store
+
+.dart_tool/
+.packages
+.pub/
+pubspec.lock
+.flutter-plugins-dependencies
+.flutter-plugins
+build/
+
+.fvm
+pubspec_overrides.yaml
