@@ -6,6 +6,8 @@
 
 [flutter_web_embedding 官方 Demo](https://github.com/flutter/samples/tree/main/web_embedding)
 
+[前端新世界｜Vue3 + Flutter element embedding](https://juejin.cn/post/7355393905201201161)
+
 ## 关键点
 
 ## Vue3

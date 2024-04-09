@@ -8,6 +8,8 @@ A simple example of how to use Vue3 + Flutter for hybrid layout to implement inf
 
 [flutter_web_embedding demo](https://github.com/flutter/samples/tree/main/web_embedding)
 
+[前端新世界｜Vue3 + Flutter element embedding](https://juejin.cn/post/7355393905201201161)
+
 ## Points of Interest
 
 ## Vue3
